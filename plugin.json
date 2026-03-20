@@ -1,0 +1,19 @@
+{
+  "name": "copilot-obsidian-meeting-notes",
+  "description": "Copilot CLI plugin for managing Obsidian vaults and automatically filing AI-generated meeting notes from Microsoft 365. Includes the Obsidian CLI skill (100+ commands) and a meeting notes workflow that pulls transcribed meeting recaps, files them with proper frontmatter and folder structure, and links them to your daily notes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mark Garner",
+    "url": "https://github.com/markgar"
+  },
+  "license": "MIT",
+  "keywords": [
+    "obsidian",
+    "meeting-notes",
+    "microsoft-365",
+    "productivity",
+    "vault",
+    "daily-notes"
+  ],
+  "skills": ["skills/"]
+}
